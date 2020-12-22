@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "My Perspective"
+title: My Perspective
 permalink: /appendix/
 ---
 
