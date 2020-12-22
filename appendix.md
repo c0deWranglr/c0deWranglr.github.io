@@ -1,5 +1,4 @@
 ---
-layout: page
 title: My Perspective
 permalink: /appendix/
 ---
