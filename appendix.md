@@ -11,6 +11,11 @@ I hope for this to be a growing catalog of interpretations/perspectives gained i
 # Bias
 
 # Belief
+A belief dictates pretty much everything to do with our life. It's the basis for our perspective on the world. This document is a essentially a description of what I believe. Beliefs aid in giving purpose to the things we do. Since, if we believe the world is such and such way, then our actions follow. I've heard people say that they believe in things, yet they don't follow the things they profress to believe. I think what these people are referring to is not belief at all. I'm not saying we have to perfectly align our actions with our beliefs, but belief does drive action. 
+
+I think what these people are describing is a mind that isn't made up on what to believe. If your mind is playing in the middle of multiple belief systems, then what do you do? It's often overwhelming and easily leads to inaction. The lack of action is still action nonetheless. I think it's important to admit the lack of firmness in belief and then work to understand ourselves. The more we understand ourselves, the less we have to play in the middle of various conflicting belief systems.
+
+I understand that it often takes a while before someone can hold firm to a belief system. This isn't a bad thing. It's also not bad to let beliefs shift and change. Change is inevitable, no sense in fighting it. We must, however, also acknowledge that any belief system has contradictions. Understanding these contradictions is enlightening. Regardless, our perspective is derived from belief. I find that living life with my belief written on my mind helps me make decisions. 
 
 # Truth
 Truth is a complicated topic. Some people dedicate much of their time to understand truth from fiction. While objective truths exist, it is hard (or maybe even impossible), to know what they are. I think there are two ways to deal with the problem of truth finding:
@@ -22,7 +27,6 @@ Adhering only to #1 just leads to a preoccupation with evidence and truth. Which
 My preferred way of handling truth is to follow conclusive evidence if it exists. If it doesn't, then don't worry too much about it. Continue living life following after the things we are most certain of. No need to have a preoccupation declaring everything as fact vs fiction. If the evidence isn't sufficiently conclusive then move on. 
 
 What is sufficiently conclusive though? Unfortunately that's where opinions rear their head. What one person thinks is acceptable evidence may be unacceptable to another. I think the decision of what is an acceptable threshold for evidence is an important one, though. Personally, my yard stick is whether or not another possiblity can exist or not. If one cannot exist, then, to me, this is truth. If it can exist, then it is merely a belief/opinion.
-
 
 # Happiness
 
